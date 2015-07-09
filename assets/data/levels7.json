@@ -1,0 +1,4523 @@
+{"levels":[
+	{"lid":107, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":1},
+		
+		{"xpos":1, "ypos":1, "value":3},
+		{"xpos":3, "ypos":1, "value":6},
+		{"xpos":6, "ypos":1, "value":4},
+		
+		{"xpos":0, "ypos":2, "value":4},
+		
+		{"xpos":1, "ypos":3, "value":2},
+		
+		{"xpos":3, "ypos":4, "value":5},
+		{"xpos":6, "ypos":4, "value":3},
+		
+		{"xpos":1, "ypos":5, "value":1},
+		
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":6},
+		{"xpos":6, "ypos":6, "value":2}
+	
+	]}, {"lid":207, "nodes":[
+		{"xpos":1, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":4},
+		
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":2, "ypos":1, "value":3},
+		{"xpos":5, "ypos":1, "value":4},
+		
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":2, "ypos":3, "value":1},
+		
+		{"xpos":6, "ypos":4, "value":4},
+		
+		{"xpos":1, "ypos":5, "value":3},
+		{"xpos":5, "ypos":5, "value":4},
+		
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+		
+	]}, {"lid":307, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":7},
+		{"xpos":5, "ypos":2, "value":1},
+		
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":2},
+		
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":5, "ypos":6, "value":2}
+		
+	]}, {"lid":407, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":6},
+		{"xpos":6, "ypos":0, "value":3},
+		
+		{"xpos":3, "ypos":1, "value":2},
+		
+		{"xpos":6, "ypos":3, "value":2},
+		
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":3, "ypos":4, "value":4},
+		
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":1},
+		
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":1}
+		
+	]}, {"lid":507, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":5, "ypos":2, "value":1},
+		
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":3},
+		
+		{"xpos":0, "ypos":5, "value":4},
+		{"xpos":2, "ypos":5, "value":3},
+		{"xpos":5, "ypos":5, "value":1},
+		
+		{"xpos":3, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":3}
+		
+	]}, {"lid":607, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":1, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+		
+	]}, {"lid":707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":5, "ypos":3, "value":2},
+		
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":1},
+		
+		{"xpos":1, "ypos":5, "value":1},	
+		{"xpos":6, "ypos":5, "value":1},
+		
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":2}
+		
+	]}, {"lid":807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":5},
+		
+		{"xpos":4, "ypos":3, "value":1},
+		
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+		
+	]}, {"lid":907, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		
+		{"xpos":2, "ypos":1, "value":1},
+		{"xpos":4, "ypos":1, "value":2},
+		
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":2, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":5},
+		
+		{"xpos":2, "ypos":5, "value":2},
+		
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+		
+	]}, {"lid":1007, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":1107, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":1},
+		{"xpos":2, "ypos":1, "value":1},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":0, "ypos":4, "value":5},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2},
+
+
+	]}, {"lid":1207, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":3, "ypos":2, "value":1},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2},
+
+
+	]}, {"lid":1307, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":4, "ypos":3, "value":5},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":3},
+
+
+	]}, {"lid":1407, "nodes":[
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":3, "ypos":1, "value":3},
+		{"xpos":6, "ypos":1, "value":3},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":4, "ypos":3, "value":1},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":4, "ypos":5, "value":1},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":3},
+
+
+	]}, {"lid":1507, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":4},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":3},
+
+
+	]}, {"lid":1607, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":4},
+
+
+	]}, {"lid":1707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":2, "ypos":3, "value":2},
+		{"xpos":5, "ypos":3, "value":3},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":2},
+
+
+	]}, {"lid":1807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":4},
+		{"xpos":5, "ypos":4, "value":4},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":3},
+
+
+	]}, {"lid":1907, "nodes":[
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":2, "ypos":1, "value":3},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":2},
+		{"xpos":2, "ypos":3, "value":3},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":3, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2},
+
+
+	]}, {"lid":2007, "nodes":[
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":1},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":5, "ypos":6, "value":1},
+
+
+	]}, {"lid":2107, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":5, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2},
+
+
+	]}, {"lid":2207, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":1, "value":1},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":5},
+		{"xpos":2, "ypos":3, "value":2},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":4},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3},
+
+
+	]}, {"lid":2307, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":1, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":5},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":4},
+
+
+	]}, {"lid":2407, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":5},
+		{"xpos":5, "ypos":3, "value":6},
+		{"xpos":0, "ypos":5, "value":4},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2},
+
+
+	]}, {"lid":2507, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":6},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":6},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2},
+
+
+	]}, {"lid":2607, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":1, "ypos":3, "value":1},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":5, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":5, "ypos":6, "value":1},
+
+
+	]}, {"lid":2707, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":5},
+		{"xpos":4, "ypos":0, "value":6},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":3},
+
+
+	]}, {"lid":2807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":2, "ypos":3, "value":3},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":0, "ypos":5, "value":3},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":2},
+
+	]}, {"lid":2907, "nodes":[
+		{"xpos":1, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":2, "value":6},
+		{"xpos":3, "ypos":2, "value":5},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":5, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":3007, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":3, "ypos":2, "value":5},
+		{"xpos":5, "ypos":2, "value":3},
+		{"xpos":3, "ypos":4, "value":1},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+		
+	]}, {"lid":3107, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":4}
+
+	]}, {"lid":3207, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":3307, "nodes":[
+		{"xpos":1, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":2, "value":3},
+		{"xpos":3, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":3407, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":5},
+		{"xpos":4, "ypos":3, "value":5},
+		{"xpos":6, "ypos":3, "value":5},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":4, "ypos":5, "value":6},
+		{"xpos":6, "ypos":5, "value":4},
+		{"xpos":0, "ypos":6, "value":2}
+
+	]}, {"lid":3507, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":3},
+		{"xpos":5, "ypos":3, "value":4},
+		{"xpos":1, "ypos":5, "value":3},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":2}
+
+	]}, {"lid":3607, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":2},
+		{"xpos":0, "ypos":5, "value":3},
+		{"xpos":3, "ypos":5, "value":4},
+		{"xpos":5, "ypos":5, "value":3},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":3707, "nodes":[	
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":2, "ypos":5, "value":3},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}	
+
+	]}, {"lid":3807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":3, "ypos":2, "value":1},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":5},
+		{"xpos":4, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":6},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":1}
+
+	]}, {"lid":3907, "nodes":[	
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":3, "ypos":2, "value":1},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":3},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":4007, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":1, "value":3},
+		{"xpos":3, "ypos":1, "value":4},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":5},
+		{"xpos":0, "ypos":3, "value":1},
+		{"xpos":1, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":1},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":4107, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":3, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":1, "ypos":4, "value":5},
+		{"xpos":3, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":4},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":1},
+		{"xpos":5, "ypos":6, "value":1}
+	
+
+	]}, {"lid":4207, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":3, "ypos":1, "value":1},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":3},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":4307, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":1, "ypos":1, "value":3},
+		{"xpos":3, "ypos":1, "value":4},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":5, "ypos":4, "value":1},
+		{"xpos":1, "ypos":5, "value":3},
+		{"xpos":6, "ypos":5, "value":4},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":2}
+
+	]}, {"lid":4407, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":3, "ypos":1, "value":4},
+		{"xpos":5, "ypos":1, "value":3},
+		{"xpos":0, "ypos":3, "value":2},
+		{"xpos":2, "ypos":3, "value":2},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":4507, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":1, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":4607, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":6, "ypos":1, "value":3},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}	
+
+	]}, {"lid":4707, "nodes":[
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":4, "ypos":1, "value":4},
+		{"xpos":1, "ypos":3, "value":2},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":4807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":5},
+		{"xpos":0, "ypos":4, "value":6},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":6},
+		{"xpos":6, "ypos":6, "value":4}
+
+	]}, {"lid":4907, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":6},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":3},
+		{"xpos":6, "ypos":5, "value":3},
+		{"xpos":0, "ypos":6, "value":1}
+
+	]}, {"lid":5007, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":5, "ypos":6, "value":2}
+
+	]}, {"lid":5107, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":3, "ypos":2, "value":1},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":2},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":3, "ypos":4, "value":4},
+		{"xpos":5, "ypos":4, "value":4},
+		{"xpos":0, "ypos":5, "value":3},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":5207, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":3, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":5},
+		{"xpos":0, "ypos":3, "value":5},
+		{"xpos":2, "ypos":3, "value":2},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":5307, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":5407, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":2, "ypos":1, "value":1},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":2, "ypos":3, "value":1},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":3, "ypos":4, "value":3},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":5507, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":0, "ypos":3, "value":2},
+		{"xpos":2, "ypos":3, "value":1},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":5},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":5607, "nodes":[
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":2, "ypos":1, "value":3},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":2, "ypos":3, "value":3},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":4}
+
+	]}, {"lid":5707, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":5807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":3, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":1, "ypos":4, "value":5},
+		{"xpos":3, "ypos":4, "value":4},
+		{"xpos":1, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":5907, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":3, "ypos":1, "value":3},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":3, "ypos":3, "value":6},
+		{"xpos":5, "ypos":3, "value":2},
+		{"xpos":0, "ypos":5, "value":4},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":5, "ypos":5, "value":1},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":6007, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":2, "ypos":1, "value":3},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":2, "ypos":3, "value":3},
+		{"xpos":6, "ypos":3, "value":5},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":4}
+
+	]}, {"lid":6107, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":3, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":4},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":2}
+
+	]}, {"lid":6207, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":3},
+		{"xpos":6, "ypos":1, "value":4},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":6307, "nodes":[
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":1, "value":4},
+		{"xpos":2, "ypos":1, "value":4},
+		{"xpos":4, "ypos":1, "value":3},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":1}
+
+	]}, {"lid":6407, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":5, "ypos":2, "value":3},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":1, "ypos":4, "value":1},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":6507, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":1, "ypos":3, "value":2},
+		{"xpos":3, "ypos":3, "value":3},
+		{"xpos":0, "ypos":5, "value":3},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":2}
+
+	]}, {"lid":6607, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":3, "ypos":2, "value":4},
+		{"xpos":5, "ypos":2, "value":4},
+		{"xpos":6, "ypos":3, "value":1},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":6707, "nodes":[
+		{"xpos":1, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":3, "ypos":2, "value":3},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":5},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":0, "ypos":6, "value":2}
+
+	]}, {"lid":6807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":4, "ypos":1, "value":3},
+		{"xpos":6, "ypos":1, "value":3},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":2, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":1, "ypos":4, "value":1},
+		{"xpos":3, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":6907, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":3, "ypos":2, "value":3},
+		{"xpos":0, "ypos":3, "value":5},
+		{"xpos":2, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":5},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":7007, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":7107, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":1},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":2, "ypos":2, "value":6},
+		{"xpos":5, "ypos":2, "value":4},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":7207, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":2, "ypos":1, "value":1},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":2, "ypos":3, "value":1},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":7307, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":4, "ypos":2, "value":4},
+		{"xpos":0, "ypos":3, "value":1},
+		{"xpos":2, "ypos":3, "value":3},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":7407, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":3, "ypos":1, "value":5},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":0, "ypos":4, "value":5},
+		{"xpos":3, "ypos":4, "value":5},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":7507, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":3, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":7607, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":0, "ypos":4, "value":5},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":7707, "nodes":[
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":7807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":1, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":5},
+		{"xpos":3, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":7907, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":1, "ypos":3, "value":1},
+		{"xpos":3, "ypos":3, "value":4},
+		{"xpos":5, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":5},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+
+	]}, {"lid":8007, "nodes":[
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":8107, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":5},
+		{"xpos":5, "ypos":0, "value":3},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":5, "ypos":2, "value":3},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":8207, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":3, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":1, "ypos":3, "value":2},
+		{"xpos":5, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":4},
+		{"xpos":3, "ypos":5, "value":5},
+		{"xpos":5, "ypos":5, "value":4},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":8307, "nodes":[
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":5, "ypos":1, "value":3},
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":3},
+		{"xpos":5, "ypos":3, "value":4},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":5, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":8407, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":5, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":5, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":8507, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":3, "ypos":2, "value":5},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":3, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":5},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":8607, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":6},
+		{"xpos":4, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":3, "ypos":3, "value":2},
+		{"xpos":5, "ypos":3, "value":1},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":8707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":3},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":3, "ypos":1, "value":3},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":2},
+		{"xpos":3, "ypos":3, "value":6},
+		{"xpos":5, "ypos":3, "value":4},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":6},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":8807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":8907, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":3, "ypos":4, "value":3},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":5, "ypos":6, "value":4}
+
+
+	]}, {"lid":9007, "nodes":[
+		{"xpos":1, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":3, "ypos":2, "value":4},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":2, "ypos":3, "value":6},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":2, "ypos":5, "value":4},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":2}
+
+
+	]}, {"lid":9107, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":2},
+		{"xpos":6, "ypos":3, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":9207, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":3, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":5},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":9307, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":3, "ypos":1, "value":1},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":4, "ypos":3, "value":1},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":4},
+		{"xpos":6, "ypos":5, "value":4},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":1}
+
+	]}, {"lid":9407, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":1, "ypos":4, "value":1},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":4}
+
+	]}, {"lid":9507, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":9607, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":1, "ypos":2, "value":4},
+		{"xpos":4, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":3},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":9707, "nodes":[
+		{"xpos":3, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":2, "ypos":1, "value":3},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":3, "ypos":3, "value":1},
+		{"xpos":5, "ypos":3, "value":3},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":9807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":9907, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":4},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":1}
+
+	]}, {"lid":10007, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":3, "ypos":1, "value":5},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":1, "ypos":3, "value":1},
+		{"xpos":3, "ypos":3, "value":5},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":10107, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":6},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":10207, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":1, "value":3},
+		{"xpos":2, "ypos":1, "value":1},
+		{"xpos":1, "ypos":2, "value":3},
+		{"xpos":3, "ypos":2, "value":4},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":3, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":10307, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":5},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":5, "ypos":3, "value":1},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":10407, "nodes":[
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":2, "ypos":4, "value":5},
+		{"xpos":4, "ypos":4, "value":6},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":10507, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":5, "ypos":0, "value":3},
+		{"xpos":3, "ypos":2, "value":1},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":10607, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":3, "ypos":1, "value":4},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":5},
+		{"xpos":5, "ypos":3, "value":3},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":5},
+		{"xpos":5, "ypos":6, "value":4}
+
+
+	]}, {"lid":10707, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":4, "ypos":1, "value":3},
+		{"xpos":6, "ypos":1, "value":4},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":2}
+
+
+	]}, {"lid":10807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":3},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":4, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":3, "ypos":5, "value":4},
+		{"xpos":5, "ypos":5, "value":4},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":10907, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":5},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":11007, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":4, "ypos":3, "value":3},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":0, "ypos":5, "value":3},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":11107, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":5, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":11207, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":2, "ypos":1, "value":4},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":3, "ypos":2, "value":1},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":3, "ypos":4, "value":1},
+		{"xpos":5, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":6},
+		{"xpos":5, "ypos":6, "value":4}
+
+
+	]}, {"lid":11307, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":5},
+		{"xpos":2, "ypos":3, "value":5},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":11407, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":2, "ypos":1, "value":1},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":2, "ypos":3, "value":3},
+		{"xpos":4, "ypos":3, "value":5},
+		{"xpos":6, "ypos":3, "value":1},
+		{"xpos":1, "ypos":5, "value":3},
+		{"xpos":4, "ypos":5, "value":3},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":11507, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":4, "ypos":3, "value":1},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":5, "value":1},
+		{"xpos":2, "ypos":5, "value":3},
+		{"xpos":4, "ypos":5, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":11607, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":4, "ypos":1, "value":4},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":2, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":5},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":11707, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":2, "ypos":1, "value":1},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":6},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":1, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":11807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":2, "ypos":3, "value":2},
+		{"xpos":5, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":11907, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":5, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":6},
+		{"xpos":5, "ypos":6, "value":3}
+
+
+	]}, {"lid":12007, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":3},
+		{"xpos":3, "ypos":1, "value":3},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":1, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":12107, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":5},
+		{"xpos":3, "ypos":3, "value":6},
+		{"xpos":1, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":12207, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":3, "ypos":2, "value":4},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":3, "ypos":5, "value":3},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":12307, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":5},
+		{"xpos":4, "ypos":2, "value":8},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":1, "ypos":3, "value":2},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":1, "ypos":5, "value":4},
+		{"xpos":4, "ypos":5, "value":4},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":12407, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":12507, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":5},
+		{"xpos":4, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":2, "ypos":2, "value":6},
+		{"xpos":6, "ypos":2, "value":5},
+		{"xpos":1, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":12607, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":4, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":12707, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":3, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":3},
+		{"xpos":0, "ypos":3, "value":1},
+		{"xpos":2, "ypos":3, "value":6},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":2, "ypos":5, "value":4},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":12807, "nodes":[
+		{"xpos":1, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":1, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":3},
+		{"xpos":1, "ypos":5, "value":3},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+	]}, {"lid":12907, "nodes":[
+		{"xpos":1, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":1},
+		{"xpos":3, "ypos":3, "value":5},
+		{"xpos":5, "ypos":3, "value":3},
+		{"xpos":5, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":13007, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":1, "ypos":3, "value":6},
+		{"xpos":3, "ypos":3, "value":6},
+		{"xpos":5, "ypos":3, "value":4},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":5, "value":4},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":13107, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":4, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":13207, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":3},
+		{"xpos":5, "ypos":3, "value":3},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":0, "ypos":5, "value":1},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":3}
+
+
+	]}, {"lid":13307, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":2},
+		{"xpos":3, "ypos":3, "value":5},
+		{"xpos":5, "ypos":3, "value":2},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":6},
+		{"xpos":6, "ypos":5, "value":3},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":1}
+
+
+	]}, {"lid":13407, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":6},
+		{"xpos":6, "ypos":4, "value":5},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":13507, "nodes":[
+		{"xpos":1, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":0, "ypos":3, "value":2},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":13607, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":3},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+	]}, {"lid":13707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":6, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":5, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":13807, "nodes":[
+		{"xpos":1, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":5},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":1, "ypos":5, "value":3},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":13907, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":1, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":6},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":14007, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":14107, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":3, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":6},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":14207, "nodes":[
+		{"xpos":2, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":3, "ypos":1, "value":1},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":3},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":2}
+
+
+	]}, {"lid":14307, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":14407, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":3, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":6},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":14507, "nodes":[
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":2, "ypos":3, "value":6},
+		{"xpos":4, "ypos":3, "value":3},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":14607, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":2, "ypos":3, "value":3},
+		{"xpos":4, "ypos":3, "value":1},
+		{"xpos":1, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":14707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":3}
+
+
+	]}, {"lid":14807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":14907, "nodes":[
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":2, "ypos":1, "value":3},
+		{"xpos":5, "ypos":1, "value":3},
+		{"xpos":3, "ypos":3, "value":1},
+		{"xpos":5, "ypos":3, "value":4},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":3},
+		{"xpos":5, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":15007, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":3},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":4, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":6},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+
+
+
+	]}, {"lid":15107, "nodes":[
+		{"xpos":2, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":3, "ypos":1, "value":4},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":0, "ypos":3, "value":2},
+		{"xpos":2, "ypos":3, "value":1},
+		{"xpos":5, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":15207, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":15307, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":15407, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":1, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":15507, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":15607, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":0, "ypos":3, "value":2},
+		{"xpos":2, "ypos":3, "value":1},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":15707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":15807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":5, "ypos":2, "value":5},
+		{"xpos":6, "ypos":3, "value":1},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":15907, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":4, "ypos":5, "value":3},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":3}
+
+
+	]}, {"lid":16007, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":5},
+		{"xpos":4, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":2, "ypos":3, "value":4},
+		{"xpos":5, "ypos":3, "value":4},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":5},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":16107, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":2, "ypos":1, "value":1},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":2, "ypos":3, "value":2},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":4},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":16207, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":4, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":16307, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":16407, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":2, "ypos":2, "value":6},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":16507, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":4},
+		{"xpos":5, "ypos":5, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":16607, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":3, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":1, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":6},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":16707, "nodes":[
+		{"xpos":1, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":6},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":1, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":6},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":16807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":2, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":16907, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":2, "ypos":3, "value":1},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":5, "value":1},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":17007, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":1, "ypos":4, "value":1},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":17107, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":1, "ypos":3, "value":2},
+		{"xpos":5, "ypos":3, "value":4},
+		{"xpos":0, "ypos":5, "value":4},
+		{"xpos":5, "ypos":5, "value":4},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":17207, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":5},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":17307, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":4, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":5, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":17407, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":17507, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":5},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":17607, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":5},
+		{"xpos":1, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":0, "ypos":5, "value":3},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":17707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":3, "ypos":1, "value":1},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":1},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":17807, "nodes":[
+		{"xpos":2, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":3, "ypos":1, "value":2},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":0, "ypos":3, "value":6},
+		{"xpos":3, "ypos":3, "value":3},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":17907, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":3, "ypos":1, "value":2},
+		{"xpos":5, "ypos":1, "value":3},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":5, "value":1},
+		{"xpos":2, "ypos":5, "value":4},
+		{"xpos":5, "ypos":5, "value":3},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":18007, "nodes":[
+		{"xpos":2, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":1, "value":3},
+		{"xpos":3, "ypos":1, "value":1},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":5},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":18107, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":1},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":5},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":18207, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":0, "ypos":2, "value":6},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":5},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":18307, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":1, "ypos":3, "value":2},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":3},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":18407, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":3},
+		{"xpos":1, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":18507, "nodes":[
+		{"xpos":1, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":0, "ypos":3, "value":1},
+		{"xpos":2, "ypos":3, "value":2},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":5, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":18607, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":5, "ypos":5, "value":3},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":18707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":1, "value":4},
+		{"xpos":3, "ypos":1, "value":4},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":1, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":3},
+		{"xpos":6, "ypos":3, "value":5},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":18807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":3},
+		{"xpos":3, "ypos":1, "value":3},
+		{"xpos":6, "ypos":1, "value":3},
+		{"xpos":2, "ypos":3, "value":2},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":2}
+
+
+	]}, {"lid":18907, "nodes":[
+		{"xpos":1, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":19007, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":19107, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":4, "ypos":2, "value":5},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":19207, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":5},
+		{"xpos":6, "ypos":4, "value":5},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":19307, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":2}
+
+
+	]}, {"lid":19407, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":19507, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":3, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":5},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":5, "ypos":6, "value":3}
+
+
+	]}, {"lid":19607, "nodes":[
+		{"xpos":1, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":3, "ypos":1, "value":1},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":1, "ypos":5, "value":3},
+		{"xpos":3, "ypos":5, "value":4},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":19707, "nodes":[
+		{"xpos":1, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":1, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":19807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":0, "ypos":3, "value":1},
+		{"xpos":1, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":19907, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":5},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":20007, "nodes":[
+		{"xpos":1, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":20107, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":2, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":3},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":6, "ypos":5, "value":3},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":5},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":20207, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":3},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":20307, "nodes":[
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":2, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":0, "ypos":5, "value":1},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":20407, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":1, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":3},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":20507, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":3, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":3},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":20607, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":20707, "nodes":[
+		{"xpos":1, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":6},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":20807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":2, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":20907, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":1, "ypos":3, "value":1},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":3}
+
+
+	]}, {"lid":21007, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":2, "ypos":2, "value":5},
+		{"xpos":5, "ypos":2, "value":3},
+		{"xpos":3, "ypos":4, "value":1},
+		{"xpos":5, "ypos":4, "value":4},
+		{"xpos":0, "ypos":5, "value":1},
+		{"xpos":2, "ypos":5, "value":4},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":5, "ypos":6, "value":4}
+
+
+	]}, {"lid":21107, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":5},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":21207, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":4},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":2, "ypos":3, "value":5},
+		{"xpos":4, "ypos":3, "value":3},
+		{"xpos":3, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":21307, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":2, "ypos":3, "value":3},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":21407, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":3},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":3, "ypos":1, "value":1},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":1, "ypos":3, "value":2},
+		{"xpos":3, "ypos":3, "value":4},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":5},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":21507, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":2, "ypos":1, "value":1},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":2, "ypos":3, "value":5},
+		{"xpos":5, "ypos":3, "value":2},
+		{"xpos":3, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":5},
+		{"xpos":2, "ypos":5, "value":3},
+		{"xpos":4, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":21607, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":1, "ypos":3, "value":5},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":3, "ypos":4, "value":3},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":21707, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":6},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":0, "ypos":3, "value":1},
+		{"xpos":1, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":3},
+		{"xpos":5, "ypos":4, "value":1},
+		{"xpos":4, "ypos":5, "value":1},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":1}
+
+
+	]}, {"lid":21807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":21907, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":4, "ypos":3, "value":1},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":22007, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":6},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":4, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":22107, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":1, "value":3},
+		{"xpos":4, "ypos":1, "value":3},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":4, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":5},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":22207, "nodes":[
+		{"xpos":1, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":2, "ypos":1, "value":3},
+		{"xpos":4, "ypos":1, "value":3},
+		{"xpos":0, "ypos":3, "value":2},
+		{"xpos":2, "ypos":3, "value":2},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":4, "ypos":5, "value":6},
+		{"xpos":6, "ypos":5, "value":4},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":22307, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":22407, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":5},
+		{"xpos":0, "ypos":4, "value":5},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":22507, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":0, "ypos":5, "value":3},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":22607, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":2, "value":3},
+		{"xpos":3, "ypos":2, "value":6},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":3, "ypos":4, "value":1},
+		{"xpos":5, "ypos":4, "value":1},
+		{"xpos":1, "ypos":5, "value":3},
+		{"xpos":6, "ypos":5, "value":3},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":22707, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":1, "ypos":3, "value":1},
+		{"xpos":6, "ypos":3, "value":5},
+		{"xpos":0, "ypos":4, "value":6},
+		{"xpos":3, "ypos":4, "value":4},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":22807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":1, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":5},
+		{"xpos":2, "ypos":5, "value":3},
+		{"xpos":5, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":22907, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":23007, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":3, "ypos":4, "value":1},
+		{"xpos":2, "ypos":5, "value":3},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":23107, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":5},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":6},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":23207, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":1, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":5, "ypos":4, "value":1},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":4},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":23307, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":6},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":1, "ypos":3, "value":2},
+		{"xpos":5, "ypos":3, "value":3},
+		{"xpos":0, "ypos":5, "value":4},
+		{"xpos":5, "ypos":5, "value":3},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":23407, "nodes":[
+		{"xpos":1, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":1, "ypos":2, "value":6},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":3},
+		{"xpos":1, "ypos":5, "value":4},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":23507, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":23607, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":5, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":23707, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":3, "ypos":0, "value":6},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":2, "ypos":1, "value":2},
+		{"xpos":5, "ypos":1, "value":1},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":4},
+		{"xpos":5, "ypos":3, "value":3},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":5, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":6},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":23807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":2, "ypos":3, "value":3},
+		{"xpos":5, "ypos":3, "value":2},
+		{"xpos":1, "ypos":4, "value":4},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":23907, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":5, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":24007, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":3, "value":5},
+		{"xpos":2, "ypos":3, "value":4},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":0, "ypos":5, "value":3},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":24107, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":3, "value":2},
+		{"xpos":4, "ypos":3, "value":6},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":3},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":24207, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":4},
+		{"xpos":5, "ypos":1, "value":4},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":5},
+		{"xpos":5, "ypos":6, "value":4},
+
+
+	]}, {"lid":24307, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":3, "ypos":1, "value":1},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":3, "ypos":3, "value":3},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3},
+
+
+	]}, {"lid":24407, "nodes":[
+		{"xpos":1, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":3},
+		{"xpos":2, "ypos":1, "value":4},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":0, "ypos":3, "value":2},
+		{"xpos":3, "ypos":3, "value":1},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":5},
+		{"xpos":6, "ypos":6, "value":2},
+
+
+	]}, {"lid":24507, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":2},
+
+
+	]}, {"lid":24607, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":3, "ypos":2, "value":4},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":5, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":6},
+		{"xpos":6, "ypos":6, "value":3},
+
+
+	]}, {"lid":24707, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":2, "ypos":1, "value":3},
+		{"xpos":3, "ypos":2, "value":3},
+		{"xpos":5, "ypos":2, "value":4},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":5, "ypos":4, "value":6},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":3},
+
+
+	]}, {"lid":24807, "nodes":[
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":2, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":24907, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":6},
+		{"xpos":4, "ypos":2, "value":6},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":5, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":25007, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":3, "ypos":2, "value":4},
+		{"xpos":5, "ypos":3, "value":3},
+		{"xpos":1, "ypos":4, "value":4},
+		{"xpos":3, "ypos":4, "value":6},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":1, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":5},
+		{"xpos":5, "ypos":6, "value":3}
+
+
+	]}, {"lid":25107, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":3},
+		{"xpos":6, "ypos":3, "value":6},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":25207, "nodes":[
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":3, "ypos":1, "value":2},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":3, "ypos":3, "value":1},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":25307, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":4, "ypos":1, "value":3},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":4, "ypos":3, "value":3},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":6},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":25407, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":25507, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":5},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":3}
+
+
+	]}, {"lid":25607, "nodes":[
+		{"xpos":1, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":1, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":2, "ypos":4, "value":4},
+		{"xpos":4, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":25707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":3},
+		{"xpos":3, "ypos":1, "value":4},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":1, "ypos":3, "value":4},
+		{"xpos":4, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":25807, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":3, "value":1},
+		{"xpos":0, "ypos":5, "value":2},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":25907, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":3, "ypos":3, "value":2},
+		{"xpos":6, "ypos":3, "value":5},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":5, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":26007, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":3, "ypos":1, "value":1},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":1, "ypos":4, "value":4},
+		{"xpos":3, "ypos":4, "value":3},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":1, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":26107, "nodes":[
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":3, "ypos":1, "value":3},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":2},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":5, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":26207, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":5, "ypos":2, "value":2},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":5, "ypos":4, "value":3},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":5, "ypos":6, "value":3}
+
+
+	]}, {"lid":26307, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":1, "ypos":1, "value":1},
+		{"xpos":3, "ypos":1, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":26407, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":3, "ypos":1, "value":2},
+		{"xpos":3, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":4},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":26507, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":4, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":26607, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":1},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":5},
+		{"xpos":4, "ypos":2, "value":7},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":26707, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":5},
+		{"xpos":5, "ypos":2, "value":4},
+		{"xpos":1, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":5, "value":3},
+		{"xpos":5, "ypos":5, "value":4},
+		{"xpos":1, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":26807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":26907, "nodes":[
+		{"xpos":1, "ypos":0, "value":4},
+		{"xpos":3, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":1, "value":2},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":4, "ypos":3, "value":3},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":27007, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":3, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":1, "ypos":3, "value":1},
+		{"xpos":4, "ypos":3, "value":1},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":4},
+		{"xpos":6, "ypos":5, "value":4},
+		{"xpos":0, "ypos":6, "value":1}
+
+
+	]}, {"lid":27107, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":1, "ypos":4, "value":1},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":27207, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":2, "ypos":2, "value":4},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":4, "ypos":4, "value":3},
+		{"xpos":6, "ypos":5, "value":1},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":3}
+
+
+	]}, {"lid":27307, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":3, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":2, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":27407, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":2, "value":1},
+		{"xpos":2, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":6},
+		{"xpos":4, "ypos":6, "value":6},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":27507, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":3, "ypos":2, "value":1},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":3, "ypos":4, "value":1},
+		{"xpos":2, "ypos":5, "value":2},
+		{"xpos":4, "ypos":5, "value":3},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":27607, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":1, "ypos":2, "value":2},
+		{"xpos":3, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":5, "ypos":3, "value":1},
+		{"xpos":1, "ypos":4, "value":1},
+		{"xpos":0, "ypos":5, "value":3},
+		{"xpos":3, "ypos":5, "value":5},
+		{"xpos":5, "ypos":5, "value":3},
+		{"xpos":1, "ypos":6, "value":1},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":27707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":6},
+		{"xpos":6, "ypos":2, "value":4},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":5, "value":3},
+		{"xpos":3, "ypos":5, "value":2},
+		{"xpos":4, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":27807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":27907, "nodes":[
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":0, "ypos":1, "value":1},
+		{"xpos":3, "ypos":2, "value":2},
+		{"xpos":2, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":3, "ypos":4, "value":4},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":28007, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":4, "ypos":1, "value":4},
+		{"xpos":6, "ypos":1, "value":4},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":28107, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":1},
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":6, "ypos":3, "value":2},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":4, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":28207, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":5},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":3, "ypos":3, "value":1},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":28307, "nodes":[
+		{"xpos":1, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":1, "value":3},
+		{"xpos":2, "ypos":1, "value":4},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":4, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":28407, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":4, "ypos":1, "value":3},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":3, "ypos":2, "value":3},
+		{"xpos":4, "ypos":3, "value":3},
+		{"xpos":6, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":3, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":28507, "nodes":[
+		{"xpos":0, "ypos":0, "value":4},
+		{"xpos":2, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":4, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":2, "ypos":4, "value":3},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":6},
+		{"xpos":6, "ypos":6, "value":4}
+
+
+	]}, {"lid":28607, "nodes":[
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":3},
+		{"xpos":3, "ypos":1, "value":1},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":2, "ypos":2, "value":5},
+		{"xpos":4, "ypos":2, "value":2},
+		{"xpos":6, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":2, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":2, "ypos":6, "value":1},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":28707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":4, "ypos":2, "value":1},
+		{"xpos":0, "ypos":3, "value":3},
+		{"xpos":2, "ypos":3, "value":4},
+		{"xpos":5, "ypos":3, "value":3},
+		{"xpos":2, "ypos":5, "value":3},
+		{"xpos":4, "ypos":5, "value":3},
+		{"xpos":6, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":2}
+
+
+	]}, {"lid":28807, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":5},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":4, "ypos":2, "value":4},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":2, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":28907, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":1, "ypos":3, "value":3},
+		{"xpos":5, "ypos":3, "value":1},
+		{"xpos":2, "ypos":4, "value":2},
+		{"xpos":4, "ypos":4, "value":3},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":3, "ypos":5, "value":1},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":29007, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":0, "ypos":2, "value":2},
+		{"xpos":2, "ypos":2, "value":5},
+		{"xpos":5, "ypos":2, "value":1},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":1, "ypos":4, "value":2},
+		{"xpos":2, "ypos":5, "value":4},
+		{"xpos":4, "ypos":5, "value":4},
+		{"xpos":1, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":29107, "nodes":[
+		{"xpos":0, "ypos":0, "value":1},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":5, "ypos":1, "value":2},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":2, "ypos":2, "value":3},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":4, "ypos":3, "value":2},
+		{"xpos":2, "ypos":4, "value":1},
+		{"xpos":6, "ypos":4, "value":3},
+		{"xpos":0, "ypos":5, "value":4},
+		{"xpos":5, "ypos":5, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":29207, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":3, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":1, "ypos":2, "value":4},
+		{"xpos":3, "ypos":2, "value":6},
+		{"xpos":6, "ypos":2, "value":5},
+		{"xpos":5, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":5, "ypos":6, "value":2}
+
+
+	]}, {"lid":29307, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":4},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":1, "ypos":1, "value":4},
+		{"xpos":3, "ypos":1, "value":3},
+		{"xpos":6, "ypos":2, "value":3},
+		{"xpos":3, "ypos":3, "value":2},
+		{"xpos":4, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":1, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":6, "ypos":6, "value":1}
+
+
+	]}, {"lid":29407, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":3},
+		{"xpos":2, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":6},
+		{"xpos":4, "ypos":4, "value":6},
+		{"xpos":6, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":2},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":29507, "nodes":[
+		{"xpos":0, "ypos":0, "value":3},
+		{"xpos":2, "ypos":0, "value":1},
+		{"xpos":5, "ypos":0, "value":1},
+		{"xpos":1, "ypos":1, "value":2},
+		{"xpos":3, "ypos":1, "value":2},
+		{"xpos":6, "ypos":2, "value":1},
+		{"xpos":1, "ypos":3, "value":1},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":3, "ypos":4, "value":4},
+		{"xpos":5, "ypos":4, "value":2},
+		{"xpos":0, "ypos":6, "value":1},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":29607, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":2},
+		{"xpos":6, "ypos":0, "value":2},
+		{"xpos":4, "ypos":1, "value":1},
+		{"xpos":4, "ypos":3, "value":3},
+		{"xpos":0, "ypos":4, "value":3},
+		{"xpos":0, "ypos":6, "value":4},
+		{"xpos":2, "ypos":6, "value":4},
+		{"xpos":4, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":3}
+
+
+	]}, {"lid":29707, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":3, "ypos":0, "value":1},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":0, "ypos":2, "value":4},
+		{"xpos":3, "ypos":2, "value":5},
+		{"xpos":6, "ypos":2, "value":2},
+		{"xpos":0, "ypos":4, "value":1},
+		{"xpos":3, "ypos":4, "value":5},
+		{"xpos":5, "ypos":4, "value":1},
+		{"xpos":1, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":4},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":29807, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":4, "ypos":0, "value":5},
+		{"xpos":6, "ypos":0, "value":4},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":4, "ypos":2, "value":4},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":3, "ypos":3, "value":2},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":4, "ypos":5, "value":4},
+		{"xpos":6, "ypos":5, "value":4},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":3, "ypos":6, "value":3},
+		{"xpos":5, "ypos":6, "value":1}
+
+
+	]}, {"lid":29907, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":2, "ypos":0, "value":3},
+		{"xpos":4, "ypos":0, "value":3},
+		{"xpos":6, "ypos":0, "value":1},
+		{"xpos":2, "ypos":2, "value":2},
+		{"xpos":0, "ypos":3, "value":4},
+		{"xpos":4, "ypos":3, "value":4},
+		{"xpos":6, "ypos":3, "value":3},
+		{"xpos":0, "ypos":6, "value":3},
+		{"xpos":4, "ypos":6, "value":1},
+		{"xpos":6, "ypos":6, "value":2}
+
+
+	]}, {"lid":30007, "nodes":[
+		{"xpos":0, "ypos":0, "value":2},
+		{"xpos":5, "ypos":0, "value":2},
+		{"xpos":6, "ypos":1, "value":2},
+		{"xpos":1, "ypos":2, "value":1},
+		{"xpos":5, "ypos":2, "value":3},
+		{"xpos":0, "ypos":4, "value":4},
+		{"xpos":3, "ypos":4, "value":2},
+		{"xpos":6, "ypos":4, "value":4},
+		{"xpos":1, "ypos":5, "value":1},
+		{"xpos":5, "ypos":5, "value":2},
+		{"xpos":0, "ypos":6, "value":2},
+		{"xpos":3, "ypos":6, "value":2},
+		{"xpos":6, "ypos":6, "value":3}
+
+    ]}
+]}
