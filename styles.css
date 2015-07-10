@@ -4,9 +4,12 @@ canvas {
 }
 
 body {
-    background-color: #88bab3;
+    background-color: #ffffff;
 }
 
+#gpbadge {
+    text-align: center;
+}
 
 
 .superdev {
