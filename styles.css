@@ -4,13 +4,14 @@ canvas {
 }
 
 body {
-    background-color: #88bab3;
+    background-color: #ffffff;
 }
 
 .gpbadge {
     display: inline-block;
     overflow: hidden;
     background: url(https://developer.android.com/images/brand/en_generic_rgb_wo_60.png) no-repeat;
+    background-size: 100% 100%;
     width: 170px;
     height: 60px;
 }
@@ -19,6 +20,7 @@ body {
     display: inline-block;
     overflow: hidden;
     background: url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;
+    background-size: 100% 100%;
     width: 170px;
     height: 60px;
 }
