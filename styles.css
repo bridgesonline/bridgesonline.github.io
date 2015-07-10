@@ -1,15 +1,10 @@
 canvas {
-    display: block;
     cursor: default;
     outline: none;
 }
 
 body {
     background-color: #ffffff;
-}
-
-#badges {
-    display: block;
 }
 
 .gpbadge {
@@ -19,8 +14,6 @@ body {
     width: 170px;
     height: 60px;
 }
-
-
 
 .superdev {
     color: rgb(37,37,37);
