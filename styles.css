@@ -20,13 +20,7 @@ body {
     height: 60px;
 }
 
-.iosbadge {
-    display: inline-block;
-    background: url(https://developer.android.com/images/brand/en_generic_rgb_wo_60.png) no-repeat;
-    background-size: 100% 100%;
-    width: 170px;
-    height: 60px;
-}
+
 
 .superdev {
     color: rgb(37,37,37);
