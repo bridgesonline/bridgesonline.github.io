@@ -4,17 +4,10 @@ canvas {
 }
 
 body {
-    background-color: #ffffff;
+    background-color: #88bab3;
 }
 
-.gpbadge {
-    text-align: center;
-    display: block;
-    background: url(https://developer.android.com/images/brand/en_generic_rgb_wo_60.png) no-repeat;
-    background-size: 100% 100%;
-    width: 170px;
-    height: 60px;
-}
+
 
 .superdev {
     color: rgb(37,37,37);
