@@ -1,4 +1,5 @@
 canvas {
+    display: block;
     cursor: default;
     outline: none;
 }
