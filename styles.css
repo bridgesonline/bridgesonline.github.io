@@ -1,10 +1,11 @@
 canvas {
     cursor: default;
     outline: none;
+    border: 1px #ffffff
 }
 
 body {
-    background-color: #000000;
+    background-color: #78bdb5;
 }
 
 .superdev {
