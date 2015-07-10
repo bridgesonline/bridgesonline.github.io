@@ -4,11 +4,12 @@ canvas {
 }
 
 body {
-    background-color: #88bab3;
+    background-color: #ffffff;
 }
 
-.gpbadge {
-    text-align: center;
+a {
+    display: inline-block;
+    padding-right: 10px;
 }
 
 .superdev {
