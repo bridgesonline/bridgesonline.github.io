@@ -30,7 +30,7 @@ i:images/final1_80.png:43190:image/png
 i:images/final1_85.png:43164:image/png
 i:images/final2.png:48389:image/png
 i:images/final2_80.png:51212:image/png
-i:images/final3.png:40354:image/png
+i:images/final3.png:39814:image/png
 i:images/gridLarge.png:5607:image/png
 i:images/gridMed.png:1827:image/png
 i:images/gridSmall.png:1583:image/png
