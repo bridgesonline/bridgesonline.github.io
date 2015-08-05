@@ -5,10 +5,19 @@ canvas {
 
 body {
     background-color: #88bab3;
+    color: white;
 }
 
 a {
     display: inline-block;
+    color: white;
+}
+
+.iosbadge {
+    padding-right: 20px;
+}
+
+.gpbadge {
     padding-right: 20px;
 }
 

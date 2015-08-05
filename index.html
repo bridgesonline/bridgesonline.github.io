@@ -1,11 +1,28 @@
 <!doctype html>
 <html>
        <head>
-              <title>bridges-online</title>
+              <title>Bridges - The Connection Puzzle Logic Game</title>
+              <meta name="google-site-verification" content="SvX-IgNMzezxO_ITabKu3mKFp7l_8uDYDfRQCy_lIqg" />
+              <meta name="description" content="Free playable puzzle game">
+              <meta name="keywords" content="Bridges,puzzle,logic,game,hashi,hashiwokakero,free">
+              <meta name="author" content="Mandla Moyo">
               <meta http-equiv="content-type" content="text/html; charset=UTF-8">
               <link href="styles.css" rel="stylesheet" type="text/css">
               <script src="soundmanager2-setup.js"></script>
   			  <script src="soundmanager2-jsmin.js"></script>
+              
+              <script>
+                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                   
+                   ga('create', 'UA-65949888-1', 'auto');
+                   ga('send', 'pageview');
+                   
+              </script>
+              
+              <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
        </head>
 
        <body>
@@ -53,12 +70,12 @@
               
               
               <div align="center" id="badges" >
-              <a class="iosbadge" href="https://geo.itunes.apple.com/gb/app/bridges/id1016476383?mt=8" >
-                  <img alt="Get it on the App Store" align="center"
+                  <a class="iosbadge" href="https://geo.itunes.apple.com/gb/app/bridges/id1016476383?mt=8" >
+                  <img alt="Get Bridges on the App Store" align="center"
                   src="http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg" /></a>
               
               <a class="gpbadge" href="https://play.google.com/store/apps/details?id=com.enkosi.bridges" >
-                  <img alt="Get it on Google Play" align="center"
+                  <img alt="Get Bridges on Google Play" align="center"
                   src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" /></a>
               
               <div class="fb-like" data-href="https://www.facebook.com/BridgesApp" data-width="120" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
@@ -67,6 +84,11 @@
               <div align="center" id="embed-html"></div>
               <script type="text/javascript" src="html/html.nocache.js"></script>
               
+              <div align="center" id="description">
+              <h1>Welcome to Bridges, the innovative and challenging puzzle game!</h1>
+              <p>Also known as <a href="https://en.wikipedia.org/wiki/Hashiwokakero">Hashiwokakero</a>, the objective of Bridges is to connect all the islands with the right number of bridges to complete each puzzle. Bridges connect islands vertically and horizontally, depending on how many bridges each island needs. Complete each puzzle by creating one fully connected network - no crossovers! Stimulating and entertaining, Bridges is a game that is easy to learn, hard to master, and always fun to play!</p>
+              <h3>New levels will be added regularly, so make sure to <a id="bookmarkme" href="#" rel="sidebar" >bookmark</a> this page and check it often!</h3>
+              </div>
        </body>
 
        <script>
@@ -85,14 +107,19 @@
               document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
        </script>
        
-       <script>
-              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-            
-              ga('create', 'UA-65949888-1', 'auto');
-              ga('send', 'pageview');
-            
-       </script>
+       <script type="text/javascript">
+           $(function() {
+             $("#bookmarkme").click(function() {
+                // Mozilla Firefox Bookmark
+                if ('sidebar' in window && 'addPanel' in window.sidebar) {
+                    window.sidebar.addPanel(location.href,document.title,"");
+                } else if( /*@cc_on!@*/false) { // IE Favorite
+                    window.external.AddFavorite(location.href,document.title);
+                } else { // webkit - safari/chrome
+                    alert('Press ' + (navigator.userAgent.toLowerCase().indexOf('mac') != - 1 ? 'Command/Cmd' : 'CTRL') + ' + D to bookmark this page.');
+                }
+            });
+        });
+    </script>
+       
 </html>
